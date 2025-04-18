@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ph.D. Student @ The University of Texas at Austin</a>.
 
 profile:
   align: right
@@ -23,8 +23,8 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am currently a second-year Ph.D. student at The University of Texas at Austin and I am fortunate to be advised by Prof. Shuchi Chawla. Prior to that, I was an undergraduate in Yao Class, Tsinghua University. During the Spring and Summer of 2022, I made a research visit at The University of Michigan, where I held a wonderful experience to work with Prof. Thatchaphol Saranurak.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research interest lies at the intersection of computer science and economics. I hold a broad interest towards many aspects in the area, including mechanism design, online algorithms and voting theory.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I am also interested in various sports, especially soccer and basketball.
