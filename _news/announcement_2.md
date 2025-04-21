@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper \textit{"Robust Max Selection"} is accepted to ISIT 2025!
+Our paper *"Robust Max Selection"* is accepted to ISIT 2025!
