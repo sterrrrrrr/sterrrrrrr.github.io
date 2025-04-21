@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>4th Floor, Theory Students Area</p>
     <p>2317 Speedway,</p>
     <p>Austin, Texas 78712</p>
 
