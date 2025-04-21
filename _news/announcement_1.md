@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-04 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper \textit{"A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization"} is accepted to SODA 2025.
