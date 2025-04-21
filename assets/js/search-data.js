@@ -37,10 +37,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-a-multi-dimensional-online-contention-resolution-scheme-for-revenue-maximization-is-accepted-to-soda-2025",
+            },{id: "news-our-paper-a-multi-dimensional-online-contention-resolution-scheme-for-revenue-maximization-is-accepted-to-soda-2025",
           title: 'Our paper “A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization” is accepted...',
           description: "",
           section: "News",},{id: "news-our-paper-robust-max-selection-is-accepted-to-isit-2025",
