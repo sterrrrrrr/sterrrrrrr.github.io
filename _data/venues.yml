@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"SODA":
+  url: https://www.siam.org/conferences-events/siam-conferences/soda25/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"STOC":
+  url: https://acm-stoc.org/stoc2023/
+  color: "#00369f"
 
-"Vision":
+"ISIT":
+  url: https://2025.ieee-isit.org/
+
+"Manuscript":
   color: "#009f36"
