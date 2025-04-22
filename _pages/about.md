@@ -6,8 +6,8 @@ subtitle: <a href='#'>Ph.D. Student @ The University of Texas at Austin</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pic1.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>2317 Speedway,</p>
     <p>Austin, Texas 78712</p>
