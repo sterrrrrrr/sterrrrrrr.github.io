@@ -22,7 +22,7 @@ announcements:
 
 ---
 
-Hello! I am currently a second-year Ph.D. student at The University of Texas at Austin and I am fortunate to be advised by Prof. Shuchi Chawla. Prior to that, I was an undergraduate in Yao Class, Tsinghua University. During the Spring and Summer of 2022, I made a research visit at The University of Michigan, where I held a wonderful experience to work with Prof. Thatchaphol Saranurak.
+Hello! I am currently a second-year Ph.D. student at The University of Texas at Austin and I am fortunate to be advised by [Prof. Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/). Prior to that, I was an undergraduate in [Yao Class, Tsinghua University](https://iiis.tsinghua.edu.cn/en/yaoclass/). During the Spring and Summer of 2022, I made a research visit at The University of Michigan, where I held a wonderful experience to work with [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/).
 
 My primary research interest lies at the intersection of computer science and economics. I hold a broad interest towards many aspects in the area, including mechanism design, online algorithms and voting theory.
 
