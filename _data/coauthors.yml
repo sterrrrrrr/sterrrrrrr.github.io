@@ -6,10 +6,6 @@
   - firstname: ["Thatchaphol"]
     url: https://sites.google.com/site/thsaranurak/
 
-"wang":
-  - firstname: ["Benyu"]
-    url: https://wbyyui.github.io/
-
 "long":
   - firstname: ["Yaowei"]
     url: https://longyaowei.github.io/
@@ -21,6 +17,8 @@
 "wang":
   - firstname: ["Yifan"]
     url: https://litcwyf.github.io/
+  - firstname: ["Benyu"]
+    url: https://wbyyui.github.io/
 
 "kehne":
   - firstname: ["Gregory"]
