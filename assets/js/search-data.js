@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-deterministic-refund-mechanisms-is-accepted-to-sagt-2025",
           title: 'Our paper “Deterministic Refund Mechanisms” is accepted to SAGT 2025!',
           description: "",
+          section: "News",},{id: "news-our-paper-multi-unit-combinatorial-prophet-inequalities-is-accepted-to-wine-2025",
+          title: 'Our paper “Multi-Unit Combinatorial Prophet Inequalities” is accepted to WINE 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
