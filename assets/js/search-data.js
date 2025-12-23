@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-multi-unit-combinatorial-prophet-inequalities-is-accepted-to-wine-2025",
           title: 'Our paper “Multi-Unit Combinatorial Prophet Inequalities” is accepted to WINE 2025!',
           description: "",
+          section: "News",},{id: "news-our-paper-proportionality-from-low-dimensional-approval-data-is-accepted-to-aamas-2026",
+          title: 'Our paper “Proportionality from Low-Dimensional Approval Data” is accepted to AAMAS 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
