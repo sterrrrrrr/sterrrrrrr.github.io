@@ -12,5 +12,11 @@
 "SAGT":
   url: https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/
 
+"AAMAS":
+  url: https://cyprusconferences.org/aamas2026/
+
+"WINE":
+  url: https://wine2025.cs.rutgers.edu/
+
 "Manuscript":
   color: "#009f36"
