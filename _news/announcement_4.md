@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"Multi-Unit Combinatorial Prophet Inequalities"* is accepted to WINE 2025!
+Our paper _"Multi-Unit Combinatorial Prophet Inequalities"_ is accepted to WINE 2025!
