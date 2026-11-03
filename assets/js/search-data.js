@@ -11,33 +11,26 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by categories in reversed chronological order. authors are listed in alphabetical order.",
+          description: "Papers and preprints, grouped by year.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "You can download my CV using the button on the top right.",
+          title: "CV",
+          description: "Curriculum vitae",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching Experiences",
+          description: "Teaching experience",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "news-our-paper-a-multi-dimensional-online-contention-resolution-scheme-for-revenue-maximization-is-accepted-to-soda-2025",
+        },{id: "news-our-paper-a-multi-dimensional-online-contention-resolution-scheme-for-revenue-maximization-is-accepted-to-soda-2025",
           title: 'Our paper “A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization” is accepted...',
           description: "",
           section: "News",},{id: "news-our-paper-robust-max-selection-is-accepted-to-isit-2025",
