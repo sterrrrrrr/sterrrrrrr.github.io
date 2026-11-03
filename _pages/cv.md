@@ -10,7 +10,7 @@ description: Curriculum vitae
 
 <a class="cv-download" href="../assets/pdf/Zhiyi_Huang_CV.pdf">Download CV (PDF)</a>
 
-I am a Ph.D. student at The University of Texas at Austin, advised by [Prof. Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/).
+I am a fourth-year Ph.D. student at The University of Texas at Austin, advised by [Prof. Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/).
 My research interests include mechanism design, online algorithms, and voting theory.
 
 Explore my [publications]({{ '/publications/' | relative_url }}) and [teaching experience]({{ '/teaching/' | relative_url }}) for more information.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student, <a href="https://www.cs.utexas.edu/">The University of Texas at Austin</a>
+subtitle: Fourth-year Ph.D. student, <a href="https://www.cs.utexas.edu/">The University of Texas at Austin</a>
 cv_pdf: Zhiyi_Huang_CV.pdf
 
 profile:
@@ -23,7 +23,7 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Ph.D. student at The University of Texas at Austin, advised by [Prof. Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/).
+I am a fourth-year Ph.D. student at The University of Texas at Austin, advised by [Prof. Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/).
 
 My research interests lie at the intersection of computer science and economics, including mechanism design, online algorithms, and voting theory.
 
