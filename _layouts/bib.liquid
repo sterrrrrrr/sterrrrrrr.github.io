@@ -228,7 +228,12 @@
         {% if entry.pdf contains '://' %}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" aria-label="Read {{ entry.title | escape }} (PDF)">PDF</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" aria-label="Read {{ entry.title | escape }} (PDF)">PDF</a>
+          <a
+            href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}"
+            class="btn btn-sm z-depth-0"
+            aria-label="Read {{ entry.title | escape }} (PDF)"
+            >PDF</a
+          >
         {% endif %}
       {% endif %}
       {% if entry.supp %}
