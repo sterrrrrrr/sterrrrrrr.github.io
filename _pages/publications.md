@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. authors are listed in alphabetical order.
+description: Papers and preprints, grouped by year.
 nav: true
 nav_order: 2
 ---

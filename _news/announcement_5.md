@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"Proportionality from Low-Dimensional Approval Data"* is accepted to AAMAS 2026!
+Our paper _"Proportionality from Low-Dimensional Approval Data"_ is accepted to AAMAS 2026!

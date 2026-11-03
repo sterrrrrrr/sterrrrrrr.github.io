@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization"* is accepted to SODA 2025!
+Our paper _"A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization"_ is accepted to SODA 2025!

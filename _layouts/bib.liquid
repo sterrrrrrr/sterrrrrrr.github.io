@@ -47,7 +47,23 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    {% assign paper_url = null %}
+    {% if entry.arxiv %}
+      {% assign paper_url = entry.arxiv | prepend: 'https://arxiv.org/abs/' %}
+    {% elsif entry.pdf %}
+      {% if entry.pdf contains '://' %}
+        {% assign paper_url = entry.pdf %}
+      {% else %}
+        {% assign paper_url = entry.pdf | prepend: '/assets/pdf/' | relative_url %}
+      {% endif %}
+    {% endif %}
+    <div class="title">
+      {% if paper_url %}
+        <a href="{{ paper_url | escape }}">{{ entry.title }}</a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -196,7 +212,7 @@
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" aria-label="Read {{ entry.title | escape }} on arXiv">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
@@ -210,9 +226,14 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" aria-label="Read {{ entry.title | escape }} (PDF)">PDF</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a
+            href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}"
+            class="btn btn-sm z-depth-0"
+            aria-label="Read {{ entry.title | escape }} (PDF)"
+            >PDF</a
+          >
         {% endif %}
       {% endif %}
       {% if entry.supp %}

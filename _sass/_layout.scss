@@ -38,6 +38,60 @@ body.sticky-bottom-footer {
   }
 }
 
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin: 1rem 0 1.5rem;
+
+  a {
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+}
+
+.profile.profile-portrait {
+  img {
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .more-info {
+    margin-top: 0.75rem;
+    font-family: inherit;
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .profile.profile-portrait {
+    width: 120px;
+    margin: 0 0 0.75rem 1rem;
+
+    .more-info {
+      display: none;
+    }
+  }
+}
+
+.cv-download {
+  display: inline-block;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 0.25rem;
+  padding: 0.6rem 1rem;
+  margin: 0.5rem 0 1.5rem;
+  font-weight: 500;
+
+  &:hover,
+  &:focus-visible {
+    background-color: var(--global-theme-color);
+    color: var(--global-bg-color);
+    text-decoration: none;
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************

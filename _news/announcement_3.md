@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"Deterministic Refund Mechanisms"* is accepted to SAGT 2025!
+Our paper _"Deterministic Refund Mechanisms"_ is accepted to SAGT 2025!

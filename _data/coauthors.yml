@@ -1,5 +1,5 @@
 "chawla":
-  - firstname: ['Shuchi', 'Chawla']
+  - firstname: ["Shuchi", "Chawla"]
     url: https://www.cs.utexas.edu/~shuchi/
 
 "saranurak":
@@ -27,4 +27,3 @@
 "yang":
   - firstname: ["Chutong"]
     url: https://chutongyang98.github.io/
-
