@@ -45,6 +45,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-proportionality-from-low-dimensional-approval-data-is-accepted-to-aamas-2026",
           title: 'Our paper “Proportionality from Low-Dimensional Approval Data” is accepted to AAMAS 2026!',
           description: "",
+          section: "News",},{id: "news-our-paper-pricing-pandora-s-boxes-revenue-maximization-in-sequential-information-acquisition-was-accepted-to-itcs-2027",
+          title: 'Our paper Pricing Pandora’s Boxes: Revenue Maximization in Sequential Information Acquisition was accepted...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
