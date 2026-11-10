@@ -18,5 +18,9 @@
 "WINE":
   url: https://wine2025.cs.rutgers.edu/
 
+"ITCS":
+  url: https://itcs-conf.org/
+  color: "#00369f"
+
 "Manuscript":
   color: "#009f36"
